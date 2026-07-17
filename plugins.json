@@ -265,5 +265,28 @@
         "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
         "apiVersion": 1,
         "fileHash": "sha256-e1ca62ae7d6bbd7aefabc9f0d55e2065c412f107134236aed723db2682374c1c"
+    },
+      {
+        "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/Netflix.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "Netflix",
+        "internalName": "Netflix",
+        "authors": [
+            "misajimenezmx"
+        ],
+        "description": "Peliculas, series, animes y cartoons en Espa\u00f1ol y Espa\u00f1ol Latino",
+        "fileSize": 31135,
+        "repositoryUrl": "https://github.com/Khriizt/CS-RP",
+        "language": "mx",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e1ca62ae7d6bbd7aefabc9f0d55e2065c412f107134236aed723db2682374c1c"
     }
 ]
