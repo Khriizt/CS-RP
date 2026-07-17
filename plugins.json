@@ -1,0 +1,269 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CablevisionHdProvider.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "CablevisionHdProvider",
+        "internalName": "CablevisionHdProvider",
+        "authors": [
+            "misajimenezmx"
+        ],
+        "fileSize": 16298,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.cablevisionhd.com/imge/cablevisionhd.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-70c6bcea44197ceec0352a697af92c603815d3921b3749e97aad382a7ee987f4"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CineHdPlusProvider.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "CineHdPlusProvider",
+        "internalName": "CineHdPlusProvider",
+        "authors": [
+            "redblacker8"
+        ],
+        "fileSize": 19654,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-af8e83f1bbab2020fafa0358768ddb2ec1c3c12338fad3614337a88d78e97371"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CuevanaProvider.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "CuevanaProvider",
+        "internalName": "CuevanaProvider",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "description": "La clasica pagina de peliculas y series.",
+        "fileSize": 26964,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-28631533e85a4edfef66bcbc34264904d6aac1fff799b38035731063121c3741"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/DeporTVProvider.cs3",
+        "status": 1,
+        "version": 28,
+        "name": "DeporTVProvider",
+        "internalName": "DeporTVProvider",
+        "authors": [
+            "redblacker8"
+        ],
+        "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
+        "fileSize": 84960,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
+        "apiVersion": 1,
+        "fileHash": "sha256-1888ef9c04d583370ef5ccec0006a8a0c5eea1973ae097e2177ed65ebf2df4e8"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/EntrepeliculasyseriesProvider.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "EntrepeliculasyseriesProvider",
+        "internalName": "EntrepeliculasyseriesProvider",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "fileSize": 27715,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nz&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-72df37a51fb037cca3c199dc3c66f60f98f8651262cc858cfeb9c91c261df2a3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/JKAnimeProvider.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "JKAnimeProvider",
+        "internalName": "JKAnimeProvider",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "fileSize": 35344,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d6afc23287631e03d31928c9e70c8a8d7ee43eae6610a7b5ec8836770cc15e68"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/LACartoonsProvider.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "LACartoonsProvider",
+        "internalName": "LACartoonsProvider",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "fileSize": 15255,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "es",
+        "tvTypes": [
+            "Cartoons",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=lacartoons.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-9733919f247441e21890119a09cf07c8217f1dfbcf56a3c3fee1473a98222bbd"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/LaMovieProvider.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "LaMovieProvider",
+        "internalName": "LaMovieProvider",
+        "authors": [
+            "redblacker8"
+        ],
+        "fileSize": 26477,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-32x32.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-048e75155f4fa8c85084089fe1c45433befe3b331ec74762bb816bc03bce7b90"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/LatAnimeProvider.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "LatAnimeProvider",
+        "internalName": "LatAnimeProvider",
+        "authors": [
+            "misajimenezmx"
+        ],
+        "description": "Anime en latino y subtitulado.",
+        "fileSize": 14196,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://latanime.org/public/img/logito.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-7f3bf39aa23170483f6e423fcb40202ec94d1c3c07b910a07adf3c4651d478d7"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PelispediaProvider.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "PelispediaProvider",
+        "internalName": "PelispediaProvider",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "fileSize": 16617,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-f715a1193a630f9855c7b88cf13d6d2a608bd0982d2f5b58a1a2ae9127ef4a26"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/Pelisplus4KProvider.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "Pelisplus4KProvider",
+        "internalName": "Pelisplus4KProvider",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "fileSize": 43411,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d75ebe1c744f0b63207142e69e85301b19e0cd1f0f8a66351d61e41f4a8459b5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PelisplusHDProvider.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "PelisplusHDProvider",
+        "internalName": "PelisplusHDProvider",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "fileSize": 27304,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.nu&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-69757bb286adc319dc1871da437d0050ba6c3d19738962edeb4b0f830830edd3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/SoloLatinoProvider.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "SoloLatinoProvider",
+        "internalName": "SoloLatinoProvider",
+        "authors": [
+            "misajimenezmx"
+        ],
+        "description": "Peliculas, series, animes y cartoons en Espa\u00f1ol y Espa\u00f1ol Latio",
+        "fileSize": 31135,
+        "repositoryUrl": "https://github.com/Khriizt/CS-Repo",
+        "language": "mx",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e1ca62ae7d6bbd7aefabc9f0d55e2065c412f107134236aed723db2682374c1c"
+    }
+]
