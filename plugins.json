@@ -27,7 +27,7 @@
         "authors": [
             "redblacker8"
         ],
-        "fileSize": 19654,
+        "fileSize": 19655,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -36,7 +36,7 @@
         ],
         "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-af8e83f1bbab2020fafa0358768ddb2ec1c3c12338fad3614337a88d78e97371"
+        "fileHash": "sha256-3b7951580a9ffd2d99c376213db755bc0096880645e04b4f1bd8da161c2e88d4"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CuevanaProvider.cs3",
@@ -69,7 +69,7 @@
             "redblacker8"
         ],
         "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
-        "fileSize": 84960,
+        "fileSize": 85009,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -77,7 +77,7 @@
         ],
         "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
         "apiVersion": 1,
-        "fileHash": "sha256-1888ef9c04d583370ef5ccec0006a8a0c5eea1973ae097e2177ed65ebf2df4e8"
+        "fileHash": "sha256-a924dd95ab14e610559e741a87f5ae3d8bf22a71bb0103fe3a75b9394c9c5850"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/EntrepeliculasyseriesProvider.cs3",
@@ -108,7 +108,7 @@
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 35344,
+        "fileSize": 35393,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -117,7 +117,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-d6afc23287631e03d31928c9e70c8a8d7ee43eae6610a7b5ec8836770cc15e68"
+        "fileHash": "sha256-16ec077e2684399b6b60af169a92efb5cb6ae6be728a5d42cb0776b305cac933"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/LACartoonsProvider.cs3",
@@ -128,16 +128,16 @@
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 15255,
+        "fileSize": 15265,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
-        "language": "mx",
+        "language": "es",
         "tvTypes": [
             "Cartoons",
             "TvSeries"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=lacartoons.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-9733919f247441e21890119a09cf07c8217f1dfbcf56a3c3fee1473a98222bbd"
+        "fileHash": "sha256-dfbd2634196ff364190a76fd7a1389ee0de46b9d53def31898e7cea4ad0a19a9"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/LaMovieProvider.cs3",
@@ -148,7 +148,7 @@
         "authors": [
             "redblacker8"
         ],
-        "fileSize": 26477,
+        "fileSize": 26489,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -158,7 +158,7 @@
         ],
         "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-048e75155f4fa8c85084089fe1c45433befe3b331ec74762bb816bc03bce7b90"
+        "fileHash": "sha256-bf85e8104e95f3144bde8f5fe5c2fce6882fa129058e945be2ef39aaac4aee4d"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/LatAnimeProvider.cs3",
@@ -210,7 +210,7 @@
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 43411,
+        "fileSize": 43416,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -221,7 +221,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-d75ebe1c744f0b63207142e69e85301b19e0cd1f0f8a66351d61e41f4a8459b5"
+        "fileHash": "sha256-ec0009f043d0f2b1aad8a2fed4c8d8c7c5889082aeefbc58edf1527f8e908bb6"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/PelisplusHDProvider.cs3",
@@ -253,29 +253,6 @@
             "misajimenezmx"
         ],
         "description": "Peliculas, series, animes y cartoons en Espa\u00f1ol y Espa\u00f1ol Latio",
-        "fileSize": 31135,
-        "repositoryUrl": "https://github.com/Khriizt/CS-RP",
-        "language": "mx",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-e1ca62ae7d6bbd7aefabc9f0d55e2065c412f107134236aed723db2682374c1c"
-    },
-      {
-        "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/Netflix.cs3",
-        "status": 1,
-        "version": 8,
-        "name": "Netflix",
-        "internalName": "Netflix",
-        "authors": [
-            "misajimenezmx"
-        ],
-        "description": "Peliculas, series, animes y cartoons en Espa\u00f1ol y Espa\u00f1ol Latino",
         "fileSize": 31135,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",

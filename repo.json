@@ -1,9 +1,9 @@
 {
-  "name": "Repo for Mr Robiin",
-  "description": "Repo movies, series, tv and more for Mr Robiin",
-  "iconUrl": "https://raw.githubusercontent.com/Khriizt/CS-RP/refs/heads/main/assets/REBEL%20Orgullo%20Azul%20y%20Oro.jpg",
+  "name": "CS-RP Latino",
+  "description": "Extensiones en español para CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Khriizt/CS-RP/refs/heads/builds/plugins.json"
-  ]
+    "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/plugins.json"
+  ],
+  "iconUrl": null
 }
