@@ -100,6 +100,28 @@
         "fileHash": "sha256-72df37a51fb037cca3c199dc3c66f60f98f8651262cc858cfeb9c91c261df2a3"
     },
     {
+        "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/Gnulahd.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Gnulahd",
+        "internalName": "Gnulahd",
+        "authors": [
+            "ByAyzen"
+        ],
+        "description": "GnulaHD",
+        "fileSize": 31526,
+        "repositoryUrl": "https://github.com/Khriizt/CS-RP",
+        "language": "mx",
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
+        "apiVersion": 1,
+        "fileHash": "sha256-386cf6cd7310f87be9bf321a444250e187a2d4bac917adc54678083a0aa07127"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/JKAnimeProvider.cs3",
         "status": 1,
         "version": 9,
