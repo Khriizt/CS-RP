@@ -2,13 +2,13 @@
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CablevisionHdProvider.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "CablevisionHdProvider",
         "internalName": "CablevisionHdProvider",
         "authors": [
-            "misajimenezmx"
+            "MrRobiin"
         ],
-        "fileSize": 16298,
+        "fileSize": 16307,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -16,18 +16,18 @@
         ],
         "iconUrl": "https://www.cablevisionhd.com/imge/cablevisionhd.png",
         "apiVersion": 1,
-        "fileHash": "sha256-70c6bcea44197ceec0352a697af92c603815d3921b3749e97aad382a7ee987f4"
+        "fileHash": "sha256-07ee3e0483d5fb9623d712198ba7acabf052b807f4426505ba465e2d1e1028e4"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CineHdPlusProvider.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "CineHdPlusProvider",
         "internalName": "CineHdPlusProvider",
         "authors": [
-            "redblacker8"
+            "MrRobiin"
         ],
-        "fileSize": 19655,
+        "fileSize": 19924,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -36,7 +36,7 @@
         ],
         "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3b7951580a9ffd2d99c376213db755bc0096880645e04b4f1bd8da161c2e88d4"
+        "fileHash": "sha256-1d57c895357d31f2fb1af500f904ee6d405c3a9a53b6e17f5e71a9a293392023"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CuevanaProvider.cs3",
