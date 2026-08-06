@@ -21,13 +21,13 @@
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CineHdPlusProvider.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "CineHdPlusProvider",
         "internalName": "CineHdPlusProvider",
         "authors": [
             "MrRobiin"
         ],
-        "fileSize": 22675,
+        "fileSize": 22617,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -36,19 +36,19 @@
         ],
         "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-91f1e879e9f97098501b78326f1c558980db0b1cdaa719fe3e789a3e9a64ceda"
+        "fileHash": "sha256-32ea063bad76e9ba6fc6602b3284faaaa91e45a9092ea185e1d1f3f213331424"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CuevanaProvider.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "CuevanaProvider",
         "internalName": "CuevanaProvider",
         "authors": [
             "Stormunblessed"
         ],
         "description": "La clasica pagina de peliculas y series.",
-        "fileSize": 26964,
+        "fileSize": 27433,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -57,19 +57,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-28631533e85a4edfef66bcbc34264904d6aac1fff799b38035731063121c3741"
+        "fileHash": "sha256-5fc5532af51b363e337077804c6747ccf3bd94e66faccb26aaf9f983bde713cf"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/DeporTVProvider.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "DeporTVProvider",
         "internalName": "DeporTVProvider",
         "authors": [
             "redblacker8"
         ],
         "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
-        "fileSize": 85009,
+        "fileSize": 85480,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -77,7 +77,7 @@
         ],
         "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
         "apiVersion": 1,
-        "fileHash": "sha256-a924dd95ab14e610559e741a87f5ae3d8bf22a71bb0103fe3a75b9394c9c5850"
+        "fileHash": "sha256-48c509584de1612238a8d87ddb7e7757a1eb9a2010a3119df66004d84bb4be45"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/EntrepeliculasyseriesProvider.cs3",
