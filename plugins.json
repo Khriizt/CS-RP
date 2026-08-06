@@ -41,14 +41,14 @@
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CuevanaProvider.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "CuevanaProvider",
         "internalName": "CuevanaProvider",
         "authors": [
             "Stormunblessed"
         ],
         "description": "La clasica pagina de peliculas y series.",
-        "fileSize": 27433,
+        "fileSize": 27368,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -57,19 +57,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-5fc5532af51b363e337077804c6747ccf3bd94e66faccb26aaf9f983bde713cf"
+        "fileHash": "sha256-b5a80b30417e278b11a7aeda439289b400df28e1c469e459a25b6f42546328f0"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/DeporTVProvider.cs3",
         "status": 1,
-        "version": 29,
+        "version": 30,
         "name": "DeporTVProvider",
         "internalName": "DeporTVProvider",
         "authors": [
             "redblacker8"
         ],
         "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
-        "fileSize": 85480,
+        "fileSize": 85949,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -77,18 +77,18 @@
         ],
         "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
         "apiVersion": 1,
-        "fileHash": "sha256-48c509584de1612238a8d87ddb7e7757a1eb9a2010a3119df66004d84bb4be45"
+        "fileHash": "sha256-fb3b6943e6dfa033cac82094d50acaa29b6aae19a674f7d2fa2949e13b27be36"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/EntrepeliculasyseriesProvider.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "EntrepeliculasyseriesProvider",
         "internalName": "EntrepeliculasyseriesProvider",
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 27715,
+        "fileSize": 27959,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -97,7 +97,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nz&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-72df37a51fb037cca3c199dc3c66f60f98f8651262cc858cfeb9c91c261df2a3"
+        "fileHash": "sha256-171e6635430c7f42277e0e2e1e9cda16911f4032838f824498c7b09150e73fe3"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/Gnulahd.cs3",
@@ -124,13 +124,13 @@
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/JKAnimeProvider.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "JKAnimeProvider",
         "internalName": "JKAnimeProvider",
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 35393,
+        "fileSize": 37128,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -139,27 +139,27 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-16ec077e2684399b6b60af169a92efb5cb6ae6be728a5d42cb0776b305cac933"
+        "fileHash": "sha256-a73f255a6304de844ca2fd55e0464b3953b32db92c64668d0a3d11bf7689aef1"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/LACartoonsProvider.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "LACartoonsProvider",
         "internalName": "LACartoonsProvider",
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 15265,
+        "fileSize": 16038,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
-        "language": "es",
+        "language": "mx",
         "tvTypes": [
             "Cartoons",
             "TvSeries"
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=lacartoons.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-dfbd2634196ff364190a76fd7a1389ee0de46b9d53def31898e7cea4ad0a19a9"
+        "fileHash": "sha256-a4a6de181ef2857c0a94a6d744b0ce4b91c47df9dba6d69c94a937591aeafd0f"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/LaMovieProvider.cs3",
@@ -185,14 +185,14 @@
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/LatAnimeProvider.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "LatAnimeProvider",
         "internalName": "LatAnimeProvider",
         "authors": [
             "misajimenezmx"
         ],
         "description": "Anime en latino y subtitulado.",
-        "fileSize": 14196,
+        "fileSize": 14466,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -201,7 +201,7 @@
         ],
         "iconUrl": "https://latanime.org/public/img/logito.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7f3bf39aa23170483f6e423fcb40202ec94d1c3c07b910a07adf3c4651d478d7"
+        "fileHash": "sha256-afad6a4a1193bd2233daada305680228dfe19f6adf16c7f7e71adfd3ab9d2608"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/PelispediaProvider.cs3",
@@ -226,13 +226,13 @@
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/Pelisplus4KProvider.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "Pelisplus4KProvider",
         "internalName": "Pelisplus4KProvider",
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 43416,
+        "fileSize": 44078,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -243,18 +243,18 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-ec0009f043d0f2b1aad8a2fed4c8d8c7c5889082aeefbc58edf1527f8e908bb6"
+        "fileHash": "sha256-918ee941a548ab7f63dd4cf73dea77d149cf289f5ef7cf0f20f35d9b9b37301c"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/PelisplusHDProvider.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "PelisplusHDProvider",
         "internalName": "PelisplusHDProvider",
         "authors": [
             "Stormunblessed"
         ],
-        "fileSize": 27304,
+        "fileSize": 28649,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -263,19 +263,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.nu&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-69757bb286adc319dc1871da437d0050ba6c3d19738962edeb4b0f830830edd3"
+        "fileHash": "sha256-28d689386d947b7e97501d35df56698919b8fe08329780398bc48597039875a7"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/SoloLatinoProvider.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "SoloLatinoProvider",
         "internalName": "SoloLatinoProvider",
         "authors": [
             "misajimenezmx"
         ],
         "description": "Peliculas, series, animes y cartoons en Espa\u00f1ol y Espa\u00f1ol Latio",
-        "fileSize": 31135,
+        "fileSize": 31860,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -286,6 +286,6 @@
         ],
         "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e1ca62ae7d6bbd7aefabc9f0d55e2065c412f107134236aed723db2682374c1c"
+        "fileHash": "sha256-0e35f4f12cf80fcd01ef3754a9bfb18d4f4cb3729f2c3a6571c1c13b73bf951c"
     }
 ]
