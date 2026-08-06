@@ -287,5 +287,30 @@
         "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
         "apiVersion": 1,
         "fileHash": "sha256-0e35f4f12cf80fcd01ef3754a9bfb18d4f4cb3729f2c3a6571c1c13b73bf951c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/TodoEnUnoProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "TodoEnUnoProvider",
+        "internalName": "TodoEnUnoProvider",
+        "authors": [
+            "Arq Medina",
+            "Codex"
+        ],
+        "description": "Todas las extensiones del repositorio en una portada unificada, paginada de 5 en 5.",
+        "fileSize": 307211,
+        "repositoryUrl": "https://github.com/Khriizt/CS-RP",
+        "language": "mx",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Cartoon",
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-0490488e1d134576ab8eac72a8666a2606e65b9c25e80c3b7737d225af2876b9"
     }
 ]
