@@ -21,13 +21,13 @@
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CineHdPlusProvider.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "CineHdPlusProvider",
         "internalName": "CineHdPlusProvider",
         "authors": [
             "MrRobiin"
         ],
-        "fileSize": 19924,
+        "fileSize": 20200,
         "repositoryUrl": "https://github.com/Khriizt/CS-RP",
         "language": "mx",
         "tvTypes": [
@@ -36,7 +36,7 @@
         ],
         "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1d57c895357d31f2fb1af500f904ee6d405c3a9a53b6e17f5e71a9a293392023"
+        "fileHash": "sha256-b83bd4e16f35bfc481116c52b86ed9e61e38abab8f7160fb5f3b3ff3a5478c27"
     },
     {
         "url": "https://raw.githubusercontent.com/Khriizt/CS-RP/builds/CuevanaProvider.cs3",
